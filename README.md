@@ -18,8 +18,12 @@ db_reservations: id(pk), table_no, time_start, time_end,
 
 Things to be done (if more time allowed):
 
+
 Make/Delete a reservation
+
 Redis caching
+
 Security protocols
+
 Flow chart
 ..

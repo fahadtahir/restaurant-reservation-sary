@@ -2,9 +2,9 @@
 
 Restaurant Reservation APIs.
 
-Postman Collection link (import): https://www.getpostman.com/collections/82394d3d16385781f4b2
+**Postman Collection link (import)**: https://www.getpostman.com/collections/82394d3d16385781f4b2
 
-DB Structure:
+**DB Structure**:
 
 db_users: id (pk), name, password, access_token, role
 
